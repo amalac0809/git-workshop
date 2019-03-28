@@ -1,1 +1,5 @@
-hello world
+dynamic dude:
+	PAI
+	AC
+	ITHATHA
+	DC
